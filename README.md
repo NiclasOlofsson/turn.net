@@ -1,2 +1,2 @@
 # turn.net
-WebRTC Turn Server
+WebRTC TURN Server
